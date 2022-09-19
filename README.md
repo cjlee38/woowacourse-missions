@@ -2,6 +2,7 @@
 
 모든 미션은 현재 repository의 branch에서도 확인할 수 있습니다.
 ## Level.1
+(2022.02.09 ~ 2022.04.07)
 
 ### 자동차 경주 게임 (java-racingcar)
 
@@ -24,7 +25,7 @@
 - step2 [repository link](https://github.com/cjlee38/java-chess/step2) & [pull-request link](https://github.com/woowacourse/java-chess/pull/408)
 
 ## Level.2
-
+(2022.04.19 ~ 2022.06.10)
 ### 웹체스
 - step1 [repository link](https://github.com/cjlee38/jwp-chess/step1) & [pull-request link](https://github.com/woowacourse/jwp-chess/pull/346)  
 - step2 [repository link](https://github.com/cjlee38/jwp-chess/step2) & [pull-request link](https://github.com/woowacourse/jwp-chess/pull/441)
@@ -37,13 +38,13 @@
 - step1 [repository link](https://github.com/cjlee38/atdd-subway-path/step1) & [pull-request link](https://github.com/woowacourse/atdd-subway-path/pull/235)  
 - step2 [repository link](https://github.com/cjlee38/atdd-subway-path/step2) & [pull-request link](https://github.com/woowacourse/atdd-subway-path/pull/285)
 
-### 장바구니
+### (협업) 장바구니
 
 - step1 [repository link](https://github.com/cjlee38/jwp-shopping-cart/step1) & [pull-request link](https://github.com/woowacourse/jwp-shopping-cart/pull/46)  
 - step2 [repository link](https://github.com/cjlee38/jwp-shopping-cart/step2) & [pull-request link](https://github.com/woowacourse/jwp-shopping-cart/pull/85)
 
 ## Level.3
-
+(2022.06.28 ~ 2022.08.18)
 ### [모락](https://github.com/woowacourse-teams/2022-mo-rak)
 
 ### 발표자료
@@ -54,13 +55,21 @@
 - 5차 데모
 - 6차 데모
 
+## Level.4
+(2022.08.30 ~ )
+
+### 톰캣
+- step1 [repository link](https://github.com/cjlee38/jwp-dashboard-http/tree/step1) & [pull-request link](https://github.com/woowacourse/jwp-dashboard-http/pull/148)
+- step2 [repository link](https://github.com/cjlee38/jwp-dashboard-http/tree/step2) & [pull-request link](https://github.com/woowacourse/jwp-dashboard-http/pull/233)
+- step3, 4 [repository link](https://github.com/cjlee38/jwp-dashboard-http/tree/step34) & [pull-request link](https://github.com/woowacourse/jwp-dashboard-http/pull/252)
+
+
 ## 지원 플랫폼 근로
 
 ### Contributions
 - Kotest Migration
   - (issue) [Kotest의 테스트 스타일을 소개하고 상황에 맞는 스타일을 선택한다.](https://github.com/woowacourse/service-apply/issues/533)
-  - (issue) [기존 테스트를 Kotest의 주석 스타일로 마이그레이션한다. ](https://github.com/woowacourse/service-apply/issues/534)
-  - (PR) [](refactor(test): migrate all tests except documentation tests to kotest)
+  - (issue) [기존 테스트를 Kotest의 주석 스타일로 마이그레이션한다.](https://github.com/woowacourse/service-apply/issues/534)
 - 관리자 생성/조회 기능
   - (issue) [관리자 계정을 생성하고 전체, 단건으로 조회한다.](https://github.com/woowacourse/service-apply/issues/603)
   - (PR) [feat: implement administrators 'create' and 'read'](https://github.com/woowacourse/service-apply/pull/608)
