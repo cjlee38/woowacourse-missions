@@ -1,6 +1,7 @@
 # 우아한 테크코스 미션 저장소
 
-모든 미션은 현재 repository의 branch에서도 확인할 수 있습니다.
+우아한테크코스를 진행하면서 작업한 미션들을 저장하는 레포지토리.
+
 ## Level.1
 (2022.02.09 ~ 2022.04.07)
 
@@ -15,14 +16,14 @@ TDD, OOP, 상속과 조합, 웹, DB
 
 | mission | step | branch | repository | PR |
 |:---:|:---:|:---:|:---:|:---:|
-| 자동차 경주 게임 | 1 | java-racingcar-step1 | [repository link](https://github.com/cjlee38/java-racingcar/tree/step1)|[pull-request link](https://github.com/woowacourse/java-racingcar/pull/278) | 
-| 자동차 경주 게임 | 2 | java-racingcar-step2 | [repository link](https://github.com/cjlee38/java-racingcar/tree/step2)|[pull-request link](https://github.com/woowacourse/java-racingcar/pull/423) |
-| 로또 | 1 | java-lotto-step1 |[repository link](https://github.com/cjlee38/java-lotto/tree/step1) | [pull-request link](https://github.com/woowacourse/java-lotto/pull/410)  |
-| 로또 | 2 | java-lotto-step2 | [repository link](https://github.com/cjlee38/java-lotto/tree/step2) | [pull-request link](https://github.com/woowacourse/java-lotto/pull/490)|
-| 블랙잭 | 1 | java-blackjack-step1 | [repository link](https://github.com/cjlee38/java-blackjack/tree/step1) | [pull-request link](https://github.com/woowacourse/java-blackjack/pull/259)|
-| 블랙잭 | 2 | java-blackjack-step2 | [repository link](https://github.com/cjlee38/java-blackjack/tree/step2) | [pull-request link](https://github.com/woowacourse/java-blackjack/pull/376)|
-| 체스 | 1 | java-chess-step1 | [repository link](https://github.com/cjlee38/java-chess/tree/step1) | [pull-request link](https://github.com/woowacourse/java-chess/pull/307)  |
-| 체스 | 2 | java-chess-step2 | [repository link](https://github.com/cjlee38/java-chess/tree/step2) | [pull-request link](https://github.com/woowacourse/java-chess/pull/408)|
+| 자동차 경주 게임 | 1 | java-racingcar-step1 | [repository](https://github.com/cjlee38/java-racingcar/tree/step1)|[pull-request](https://github.com/woowacourse/java-racingcar/pull/278) | 
+| 자동차 경주 게임 | 2 | java-racingcar-step2 | [repository](https://github.com/cjlee38/java-racingcar/tree/step2)|[pull-request](https://github.com/woowacourse/java-racingcar/pull/423) |
+| 로또 | 1 | java-lotto-step1 |[repository](https://github.com/cjlee38/java-lotto/tree/step1) | [pull-request](https://github.com/woowacourse/java-lotto/pull/410)  |
+| 로또 | 2 | java-lotto-step2 | [repository](https://github.com/cjlee38/java-lotto/tree/step2) | [pull-request](https://github.com/woowacourse/java-lotto/pull/490)|
+| 블랙잭 | 1 | java-blackjack-step1 | [repository](https://github.com/cjlee38/java-blackjack/tree/step1) | [pull-request](https://github.com/woowacourse/java-blackjack/pull/259)|
+| 블랙잭 | 2 | java-blackjack-step2 | [repository](https://github.com/cjlee38/java-blackjack/tree/step2) | [pull-request](https://github.com/woowacourse/java-blackjack/pull/376)|
+| 체스 | 1 | java-chess-step1 | [repository](https://github.com/cjlee38/java-chess/tree/step1) | [pull-request](https://github.com/woowacourse/java-chess/pull/307)  |
+| 체스 | 2 | java-chess-step2 | [repository](https://github.com/cjlee38/java-chess/tree/step2) | [pull-request](https://github.com/woowacourse/java-chess/pull/408)|
 
 
 ## Level.2
@@ -39,14 +40,14 @@ Spring MVC, JDBC, Core, Configuration, 인증과 인가, 배포
 
 | mission | step | branch | repository | PR |
 |:---:|:---:|:---:|:---:|:---:|
-|웹 체스|1|jwp-chess-step1|[repository link](https://github.com/cjlee38/jwp-chess/tree/step1) | [pull-request link](https://github.com/woowacourse/jwp-chess/pull/346) |
-|웹 체스|2|jwp-chess-step2|[repository link](https://github.com/cjlee38/jwp-chess/tree/step2) | [pull-request link](https://github.com/woowacourse/jwp-chess/pull/441)|
-|지하철 노선도|1|atdd-subway-map-step1|[repository link](https://github.com/cjlee38/atdd-subway-map/tree/step1) | [pull-request link](https://github.com/woowacourse/atdd-subway-map/pull/251) |
-|지하철 노선도|2|atdd-subway-map-step2|[repository link](https://github.com/cjlee38/atdd-subway-map/tree/step2) | [pull-request link](https://github.com/woowacourse/atdd-subway-map/pull/324)|
-|지하철 경로조회|1|atdd-subway-path-step1|[repository link](https://github.com/cjlee38/atdd-subway-path/tree/step1) | [pull-request link](https://github.com/woowacourse/atdd-subway-path/pull/235)|  
-|지하철 경로조회|2|atdd-subway-path-step2|[repository link](https://github.com/cjlee38/atdd-subway-path/tree/step2) | [pull-request link](https://github.com/woowacourse/atdd-subway-path/pull/285)|
-|장바구니|1|jwp-shopping-cart-step1|[repository link](https://github.com/cjlee38/jwp-shopping-cart/tree/step1) | [pull-request link](https://github.com/woowacourse/jwp-shopping-cart/pull/46)|
-|장바구니|2|jwp-shopping-cart-step2|[repository link](https://github.com/cjlee38/jwp-shopping-cart/tree/step2) | [pull-request link](https://github.com/woowacourse/jwp-shopping-cart/pull/85)|
+|웹 체스|1|jwp-chess-step1|[repository](https://github.com/cjlee38/jwp-chess/tree/step1) | [pull-request](https://github.com/woowacourse/jwp-chess/pull/346) |
+|웹 체스|2|jwp-chess-step2|[repository](https://github.com/cjlee38/jwp-chess/tree/step2) | [pull-request](https://github.com/woowacourse/jwp-chess/pull/441)|
+|지하철 노선도|1|atdd-subway-map-step1|[repository](https://github.com/cjlee38/atdd-subway-map/tree/step1) | [pull-request](https://github.com/woowacourse/atdd-subway-map/pull/251) |
+|지하철 노선도|2|atdd-subway-map-step2|[repository](https://github.com/cjlee38/atdd-subway-map/tree/step2) | [pull-request](https://github.com/woowacourse/atdd-subway-map/pull/324)|
+|지하철 경로조회|1|atdd-subway-path-step1|[repository](https://github.com/cjlee38/atdd-subway-path/tree/step1) | [pull-request](https://github.com/woowacourse/atdd-subway-path/pull/235)|  
+|지하철 경로조회|2|atdd-subway-path-step2|[repository](https://github.com/cjlee38/atdd-subway-path/tree/step2) | [pull-request](https://github.com/woowacourse/atdd-subway-path/pull/285)|
+|장바구니|1|jwp-shopping-cart-step1|[repository](https://github.com/cjlee38/jwp-shopping-cart/tree/step1) | [pull-request](https://github.com/woowacourse/jwp-shopping-cart/pull/46)|
+|장바구니|2|jwp-shopping-cart-step2|[repository](https://github.com/cjlee38/jwp-shopping-cart/tree/step2) | [pull-request](https://github.com/woowacourse/jwp-shopping-cart/pull/85)|
 
 
 ## Level.3
@@ -79,14 +80,16 @@ JPA, Git branch 관리, 협업, 팀 문화, UI/UX
 
 | mission | step | branch | repository | PR |
 |:---:|:---:|:---:|:---:|:---:|
-|톰캣 구현하기|1|jwp-dashboard-http-step1|[repository link](https://github.com/cjlee38/jwp-dashboard-http/tree/step1) | [pull-request link](https://github.com/woowacourse/jwp-dashboard-http/pull/148)|
-|톰캣 구현하기|2|jwp-dashboard-http-step2|[repository link](https://github.com/cjlee38/jwp-dashboard-http/tree/step2) | [pull-request link](https://github.com/woowacourse/jwp-dashboard-http/pull/233)
-|톰캣 구현하기|3, 4|jwp-dashboard-http-step34|[repository link](https://github.com/cjlee38/jwp-dashboard-http/tree/step34) | [pull-request link](https://github.com/woowacourse/jwp-dashboard-http/pull/252)
-|`@MVC` 구현하기|1|jwp-dashboard-mvc-step1|[repository link](https://github.com/cjlee38/jwp-dashboard-mvc/tree/step1) | [pull-request link](https://github.com/woowacourse/jwp-dashboard-mvc/pull/187)
-|`@MVC` 구현하기|2, 3|jwp-dashboard-mvc-step23|[repository link](https://github.com/cjlee38/jwp-dashboard-mvc/tree/step23) | [pull-request link](https://github.com/woowacourse/jwp-dashboard-mvc/pull/247)
-|JDBC 라이브러리 구현하기|1|jwp-dashboard-jdbc-step1|[repository link](https://github.com/cjlee38/jwp-dashboard-jdbc/tree/step1) | [pull-request link](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/60)
-|JDBC 라이브러리 구현하기|2, 3|jwp-dashboard-jdbc-step23|[repository link](https://github.com/cjlee38/jwp-dashboard-jdbc/tree/step23) | [pull-request link](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/131)
-|레거시 코드 리팩토링| - | - | - | -
+|톰캣 구현하기|1|jwp-dashboard-http-step1|[repository](https://github.com/cjlee38/jwp-dashboard-http/tree/step1) | [pull-request](https://github.com/woowacourse/jwp-dashboard-http/pull/148)|
+|톰캣 구현하기|2|jwp-dashboard-http-step2|[repository](https://github.com/cjlee38/jwp-dashboard-http/tree/step2) | [pull-request](https://github.com/woowacourse/jwp-dashboard-http/pull/233)
+|톰캣 구현하기|3, 4|jwp-dashboard-http-step34|[repository](https://github.com/cjlee38/jwp-dashboard-http/tree/step34) | [pull-request](https://github.com/woowacourse/jwp-dashboard-http/pull/252)
+|`@MVC` 구현하기|1|jwp-dashboard-mvc-step1|[repository](https://github.com/cjlee38/jwp-dashboard-mvc/tree/step1) | [pull-request](https://github.com/woowacourse/jwp-dashboard-mvc/pull/187)
+|`@MVC` 구현하기|2, 3|jwp-dashboard-mvc-step23|[repository](https://github.com/cjlee38/jwp-dashboard-mvc/tree/step23) | [pull-request](https://github.com/woowacourse/jwp-dashboard-mvc/pull/247)
+|JDBC 라이브러리 구현하기|1|jwp-dashboard-jdbc-step1|[repository](https://github.com/cjlee38/jwp-dashboard-jdbc/tree/step1) | [pull-request](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/60)
+|JDBC 라이브러리 구현하기|2, 3|jwp-dashboard-jdbc-step23|[repository](https://github.com/cjlee38/jwp-dashboard-jdbc/tree/step23) | [pull-request](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/131)
+|레거시 코드 리팩토링| 1 | jwp-refactoring-step1 | [repository](https://github.com/cjlee38/jwp-refactoring/tree/step1) | [pull-request](https://github.com/woowacourse/jwp-refactoring/pull/213)
+|레거시 코드 리팩토링| 2 | jwp-refactoring-step2 | [repository](https://github.com/cjlee38/jwp-refactoring/tree/step2) | [pull-request](https://github.com/woowacourse/jwp-refactoring/pull/290)
+|레거시 코드 리팩토링| 3 | jwp-refactoring-step3 | [repository](https://github.com/cjlee38/jwp-refactoring/tree/step3) | [pull-request](https://github.com/woowacourse/jwp-refactoring/pull/387)
 
 ## 글쓰기 미션
 
